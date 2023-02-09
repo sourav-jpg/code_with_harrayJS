@@ -479,8 +479,31 @@
 // console.log(a);
 
 //------------------
-//error object 
+//TRY and CATCH i.e ERROR HANDLING
 
+// setTimeout(()=>{
+//     console.log("hacking wifi ......");
+// },1000)
+
+// setTimeout(()=>{
+//     console.log("Fetching username and password....");
+// },2000)
+
+// try{
+//     console.log(sourav);
+// }catch(err){
+//     console.log(err);
+// }
+
+// setTimeout(()=>{
+//     console.log("hacking rahul's id ......");
+// },3000)
+
+// setTimeout(()=>{
+//     console.log("rahuls username and password fetched!......");
+// },4000)
+
+//----error object--------- 
 // try{
 //    throw
 // }catch(err){
