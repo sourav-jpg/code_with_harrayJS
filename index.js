@@ -477,3 +477,20 @@
 // console.log("welcome to weather forecasting!");
 // let a = weather()
 // console.log(a);
+
+//------------------
+//error object 
+
+// try{
+//    throw
+// }catch(err){
+//     console.log(err.name);
+//     console.log(err.message);
+//     console.log(err.stack);
+// }
+
+
+//----------------------------
+
+//FETCH API 
+
