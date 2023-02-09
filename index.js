@@ -493,4 +493,32 @@
 //----------------------------
 
 //FETCH API 
+// in fectch there will be two .then
+// let p  = fetch('https://jsonplaceholder.typicode.com/users')
+// p.then((response)=>{
+//     console.log(response.status);
+//     console.log(response.ok);
+//     return response.json();
+//     // return response.text();
 
+// }).then((val2)=>{
+//      console.log(val2);
+// })
+
+//making POST request in fetch api 
+
+// let options = {
+//     method :'POST',
+//     headers : {
+//           "Content-type":"application/json"
+//     },
+//     body :JSON.stringify({
+//         title:"Qwerty",
+//         body:'bar',
+//         userId:1,
+//     })
+// }
+
+// let response  = fetch('https://jsonplaceholder.typicode.com/posts',options)
+// .then((response)=>response.json())
+// .then((json)=>console.log(json));
