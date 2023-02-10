@@ -3,10 +3,10 @@
     background:radial-gradient(red,green ,blue);
 }
  */
- .xx::selection{
+ /* .xx::selection{
     color: red;
     background-color: yellow;
- }
+ } */
 
  /* .xx{
     color: blue;
