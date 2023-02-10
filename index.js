@@ -552,3 +552,20 @@
 // console.log(document.cookie);
 
 //-------------
+//LOCALE STORAGE 
+// localStorage.setItem("name","sourav");
+
+// let key = prompt('enter key');
+// let value = prompt('enter value');
+// localStorage.setItem(key,value);
+
+// console.log(`the value at ${key} is ${localStorage.getItem(key)}`);
+// if(key="red" || key=="blue"){
+//     localStorage.removeItem(key);
+// }
+
+//localeStorage.clear();
+//------------------------------
+
+//SESSION STORAGE
+// sessionStorage.setItem("name","sourav")

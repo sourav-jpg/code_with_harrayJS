@@ -1,4 +1,13 @@
-.xx{
+/* .xx{
     color: blueviolet;
     background:radial-gradient(red,green ,blue);
 }
+ */
+ .xx::selection{
+    color: red;
+    background-color: yellow;
+ }
+
+ /* .xx{
+    color: blue;
+ } */
